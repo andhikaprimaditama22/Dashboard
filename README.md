@@ -8,13 +8,13 @@ Apart from interesting real world applications of bike sharing systems, the char
 
 ## Analysis
 **Defining Question**
-> How does the time of day influence bike-sharing ride usage?
-> What are the trends in bike-sharing rides across different days of the week?
-> How does bike-sharing usage vary by month?
-> Do weather and seasonal changes impact bike-share ridership?
+1. How does the time of day influence bike-sharing ride usage?
+2. What are the trends in bike-sharing rides across different days of the week?
+3. How does bike-sharing usage vary by month?
+4. Do weather and seasonal changes impact bike-share ridership?
 
 **Insight and Findings**
-> The analysis indicates that registered bike-share users primarily use the service for commuting during peak hours in the morning and evening, while casual users demonstrate greater flexibility in their usage throughout the day, particularly enjoying rides during daylight hours until early evening.
-> The data reveals a notable distinction in bike-share usage between casual and registered users, with registered users showing peak usage on Fridays and casual users on Sundays, suggesting that many casual users utilize the service for city exploration during the weekend.
-> The analysis indicates that bike-sharing rides are heavily utilized in June and September, but there is a noticeable decline starting in October, reaching the lowest point in January, before rising again in February, suggesting that seasonal changes significantly influence usage patterns for both casual and registered users.
-> The analysis demonstrates that weather conditions significantly impact the number of bike-share rides, with notable reductions during heavy rain compared to pleasant weather, and a clear seasonal pattern where bike-share usage peaks in the summer and is at its lowest in the winter.
+1. The analysis indicates that registered bike-share users primarily use the service for commuting during peak hours in the morning and evening, while casual users demonstrate greater flexibility in their usage throughout the day, particularly enjoying rides during daylight hours until early evening.
+2. The data reveals a notable distinction in bike-share usage between casual and registered users, with registered users showing peak usage on Fridays and casual users on Sundays, suggesting that many casual users utilize the service for city exploration during the weekend.
+3. The analysis indicates that bike-sharing rides are heavily utilized in June and September, but there is a noticeable decline starting in October, reaching the lowest point in January, before rising again in February, suggesting that seasonal changes significantly influence usage patterns for both casual and registered users.
+4. The analysis demonstrates that weather conditions significantly impact the number of bike-share rides, with notable reductions during heavy rain compared to pleasant weather, and a clear seasonal pattern where bike-share usage peaks in the summer and is at its lowest in the winter.
