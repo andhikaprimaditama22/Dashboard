@@ -1,4 +1,4 @@
-# Capital Bikeshare: Bike-Sharing Dashboard & Analysis
+# :biking_man: Capital Bikeshare: Bike-Sharing Dashboard & Analysis
 ## :page_with_curl: About Dataset
 Dataset contains the hourly and daily count of rental bikes between the years 2011 and 2012 in the Capital bike share system with the corresponding weather and seasonal information.
 Data Set Information:
@@ -13,7 +13,7 @@ Apart from interesting real world applications of bike sharing systems, the char
 3. How does bike-sharing usage vary by month?
 4. Do weather and seasonal changes impact bike-share ridership?
 
-**:telescope: Insight and Findings**
+**Insight and Findings**
 1. The analysis indicates that registered bike-share users primarily use the service for commuting during peak hours in the morning and evening, while casual users demonstrate greater flexibility in their usage throughout the day, particularly enjoying rides during daylight hours until early evening.
 2. The data reveals a notable distinction in bike-share usage between casual and registered users, with registered users showing peak usage on Fridays and casual users on Sundays, suggesting that many casual users utilize the service for city exploration during the weekend.
 3. The analysis indicates that bike-sharing rides are heavily utilized in June and September, but there is a noticeable decline starting in October, reaching the lowest point in January, before rising again in February, suggesting that seasonal changes significantly influence usage patterns for both casual and registered users.
